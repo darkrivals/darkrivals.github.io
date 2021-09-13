@@ -1,0 +1,27 @@
+.heading h1{
+	text-align: center;
+	font-size: 100 %;
+	height: 150 px;
+	width: 150 px;
+	font-family: 'Dancing Script', cursive;
+	background-color: black;
+    color: white;
+
+}
+.head h1{
+	text-align: center;
+	color: white;
+}
+body {
+	background: url(bg.jpeg);
+	background-size: 100%;
+	background-position:center-bottom;
+	color: white;
+}
+.table h2{
+    text-align: center;
+    color: white;
+}
+.table img{
+	border-radius: 50 px;
+}
